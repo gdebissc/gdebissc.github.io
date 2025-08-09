@@ -1,3 +1,9 @@
-theme: jekyll-theme-minimal
-title: Gdebissc's homepage
-description: Bookmark this to keep an eye on my project updates
+title: Grégoire de Bisschop Research Portfolio
+description: A showcase of my research interests and publications
+baseurl: ""
+url: "https://gdebissc.github.io"
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+show_excerpts: false
