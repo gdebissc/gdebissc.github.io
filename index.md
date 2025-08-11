@@ -3,31 +3,27 @@ layout: default
 title: Research Portfolio
 ---
 
-# Grégoire de Bisschop
+I am a biochemist and molecular biologist passionate about RNA. My research explores how RNA and their cognate proteins, RNA-binding proteins, respond to cellular perturbations such as viral infections.
 
-Welcome to my research portfolio. I am a researcher specializing in Biochemistry and Molecular Biology. Below, you’ll find an overview of my research interests and a list of my publications.
+During my PhD, I characterized a RNA unwinding enzyme critical for viral RNA trafficking, optimizing methods to study RNA folding and uncovering protein-induced unfolding. As a postdoctoral researcher, I performed a broader, systematic mapping of RNA and RNA-binding protein cellular landscape to uncover both viral strategies that bolster replication and cellular adaptation to stress. My expertise in the RNA field spans in vitro biochemical assays, RNA deep and/or direct sequencing, and advanced imaging in cellular models.
 
-## Research Interests
+I have mentored students at different training levels and taught biochemistry and molecular biology to undergraduate students.
 
-My work focuses on the following areas:
+I am always open to discussions and collaborations on RNA biology. Feel free to connect and reach out!
 
-- **1**: 1 [brief description].
-- **2**: 2 [brief description].
-- **3**: 3 [brief description].
 
 ## Publications
 
 Here is a selection of my recent publications:
 
-- **1**: 1 [brief description].
-- **2**: 2 [brief description].
-- **3**: 3 [brief description].
+- Chamond, **de Bisschop**, Faria, Laoudi, Martynov, Sargueil, DEAD-box Helicase Intrinsically Disordered Domains and Structural Dynamics of HIV-1 RNA are Required to reveal DDX3X Catalytic Efficiency. Nuclei Acids Research, in press. : Unveiled the multiple turn-over activity of DDX3X, and its ability to unpack HIV-1 genomic RNA dimers involved in viral packaging.
+- **de Bisschop**, Ameur, Ulryck, Benattia, Ponchon, Sargueil, Chamond. HIV-1 gRNA, a biological substrate, uncovers the potency of DDX3X biochemical activity. Biochimie. 2019: Demonstrated that the activity of DDX3 is highly dependent on the nature of the RNA substrate.
+- **de Bisschop**, Allouche, Frezza, Masquida, Ponty, Will, Sargueil. Progress toward SHAPE Constrained Computational Prediction of Tertiary Interactions in RNA Structure. Noncoding RNA: Developped tools to map non-canonical contats in RNA folding.
 
 ## Contact
 
-Feel free to reach out for collaborations or inquiries:
-- Email: [your.email@example.com]
-- Twitter: [@yourhandle]
-- LinkedIn: [linkedin.com/in/yourprofile]
+Reach out for collaborations or inquiries:
+- Email: gregoire *dot* de *dot* bisschop *at* gmail *dot* com
+- LinkedIn: [linkedin.com/in/gdebissc]
 
 *Last updated: August 2025*
