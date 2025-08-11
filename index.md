@@ -18,9 +18,9 @@ I am always open to discussions and collaborations on RNA biology. Feel free to 
 
 Here is a selection of my publications:
 
-- Chamond, **de Bisschop**, Faria, Laoudi, Martynov, Sargueil, DEAD-box Helicase Intrinsically Disordered Domains and Structural Dynamics of HIV-1 RNA are Required to reveal DDX3X Catalytic Efficiency. Nuclei Acids Research, in press. : Unveiled the multiple turn-over activity of DDX3X, and its ability to unpack HIV-1 genomic RNA dimers involved in viral packaging.
-- **de Bisschop**, Ameur, Ulryck, Benattia, Ponchon, Sargueil, Chamond. HIV-1 gRNA, a biological substrate, uncovers the potency of DDX3X biochemical activity. Biochimie. 2019: Demonstrated that the activity of DDX3 is highly dependent on the nature of the RNA substrate.
-- **de Bisschop**, Allouche, Frezza, Masquida, Ponty, Will, Sargueil. Progress toward SHAPE Constrained Computational Prediction of Tertiary Interactions in RNA Structure. Noncoding RNA: Developped tools to map non-canonical contats in RNA folding.
+- Chamond*, **de Bisschop***, Faria, Laoudi, Martynov, Sargueil, *DEAD-box Helicase Intrinsically Disordered Domains and Structural Dynamics of HIV-1 RNA are Required to reveal DDX3X Catalytic Efficiency.* Nucleic Acids Research, in press. : Unveiled the multiple turn-over activity of DDX3X, and its ability to unpack HIV-1 genomic RNA dimers involved in viral packaging.
+- **de Bisschop**, Ameur, Ulryck, Benattia, Ponchon, Sargueil, Chamond. *HIV-1 gRNA, a biological substrate, uncovers the potency of DDX3X biochemical activity*. Biochimie. 2019: Demonstrated that the activity of DDX3 is highly dependent on the nature of the RNA substrate.
+- **de Bisschop**, Allouche, Frezza, Masquida, Ponty, Will, Sargueil. *Progress toward SHAPE Constrained Computational Prediction of Tertiary Interactions in RNA Structure*. Noncoding RNA. 2021. Developped tools to map non-canonical contats in RNA folding.
 
 ## Contact
 
