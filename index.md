@@ -26,6 +26,6 @@ Here is a selection of my publications:
 
 Reach out for collaborations or inquiries:
 - Email: gregoire *dot* de *dot* bisschop *at* gmail *dot* com
-- LinkedIn: <www.linkedin.com/in/gdebissc>
+- LinkedIn: [linkedin.com/in/gdebissc](https://www.linkedin.com/in/gdebissc)
 
 *Last updated: August 2025*
